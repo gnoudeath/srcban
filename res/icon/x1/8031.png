@@ -1,0 +1,10 @@
+SERVICE_CONTROL_POWEREVENT 4
+2023/02/07 22:10:56.357  4072       4076 S0   NetWatchdog: OnStandby going to sleep
+2023/02/07 22:10:56.357  4072       4076 S0   NetWatchdog: Completely disconnected. Going offline.
+2023/02/07 22:10:56.357  4072       4796 S0!! KeepAliveSession::StopKeepAliveInternal: no remote session
+2023/02/07 22:11:10.756  4072       6508 S0   NetWatchdog: Internet is now disconnected
+2023/02/07 22:11:10.756  4072       4796 S0   CKeepAliveClientClient::HandleStartKeepAlive: going online not wanted!
+2023/02/07 22:11:11.403  4072       6508 S0   NetWatchdog: Internet is now connected
+2023/02/07 22:11:11.403  4072       4796 S0   CKeepAliveClientClient::HandleStartKeepAlive: going online not wanted!
+2023/02/07 22:11:12.368  4072       6508 S0   NetWatchdog: Internet is now disconnected
+2023/02/07 22:11:12.368 

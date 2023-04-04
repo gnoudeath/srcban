@@ -1,0 +1,22 @@
+ager::CleanupPrinters: finished
+2023/02/07 20:01:55.370  4072       4768 S0!  OptOutManager::[]ResultCB: Send message result 0
+2023/02/07 20:01:55.385  4072       4796 S0   OSSessionEventTranslator::GenerateEventsForSession: SessionID = 0, username = , primarySession = 0, isUsable = 0, locked = 0, connected = 0
+2023/02/07 20:01:55.385  4072       4796 S0   OSSessionEventTranslator::GenerateEventsForSession: SessionID = 1, username = desktop-re2qqlq\laova, primarySession = 1, isUsable = 1, locked = 1, connected = 1
+2023/02/07 20:01:55.385  4072       4796 S0   SingleUserSessionDesignator: New active session: 1
+2023/02/07 20:01:55.385  4072       4816 S0   NetworkControl::UpdateOnlineState alwaysOnline=0 delayOffline=0 otherProcess=0 restart=0 termsOfUseAccepted=1
+2023/02/07 20:01:55.385  4072       4816 S0   NetworkControl::UpdateOnlineState alwaysOnline=0 delayOffline=0 otherProcess=0 restart=0 termsOfUseAccepted=1
+2023/02/07 20:01:55.385  4072       4816 S0   NetworkControl::UpdateOnlineState alwaysOnline=0 delayOffline=0 otherProcess=0 restart=0 termsOfUseAccepted=1
+2023/02/07 20:01:55.401  4072       4768 S0   ApiServer::IsApiInstalled: The API is not registered with Windows.
+2023/02/07 20:02:02.991  4072       4076 S0   SERVICE_CONTROL_SESSIONCHANGE session=1, statusCode=WTS_SESSION_UNLOCK, console=1
+2023/02/07 20:02:06.276  4072       6508 S0   NetWatchdog: Internet is now connected
+2023/02/07 20:02:06.276  4072       4796 S0   CKeepAliveClientClient::HandleStartKeepAlive: going online not wanted!
+2023/02/07 20:02:10.550  4072       6508 S0   NetWatchdog: Completely disconnected. Going offline.
+2023/02/07 20:02:10.550  4072       6508 S0   NetWatchdog: Internet is now disconnected
+2023/02/07 20:02:10.550  4072       4816 S0!! KeepAliveSession::StopKeepAliveInternal: no remote session
+2023/02/07 20:02:10.550  4072       6508 S0   NetWatchdog: LAN is now disconnected
+2023/02/07 20:02:13.431  4072       6508 S0   NetWatchdog: LAN is now connected
+2023/02/07 20:02:13.431  4072       4816 S0   CKeepAliveClientClient::HandleStartKeepAlive: going online not wanted!
+2023/02/07 20:02:13.999  4072       6508 S0   NetWatchdog: Internet is now connected
+2023/02/07 20:02:13.999  4072       4816 S0   CKeepAliveClientClient::HandleStartKeepAlive: going online not wanted!
+2023/02/07 20:02:16.118  4072       6508 S0   NetWatchdog: Internet is now disconnected
+2023/02/07 20:02:16.118  4072       4816 S0   
